@@ -14,4 +14,4 @@ If the cmu_graphics folder was lost by any chance, or cmu makes some form of upd
 
 <br><br>
 
-Link to Program: https://academy.cs.cmu.edu/sharing/aquamarineKitten783130
+Link to Test out the Game: https://academy.cs.cmu.edu/sharing/aquamarineKitten783130
